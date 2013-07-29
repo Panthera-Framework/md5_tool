@@ -1,0 +1,16 @@
+{
+    "title": "md5 tool for Panthera",
+    "description": "Simple md5 sum tool for Panthera Framework built-in Admin Panel",
+    "author": "Damian Keska",
+    "contact": [
+
+    ],
+    "url": "http:\/\/webnull.kablownia.org",
+    "files": {
+        "content\/ajaxpages\/md5tool.php": "00a3b6aa10c64ae1a13b0165a71c5c7c",
+        "content\/templates\/admin\/templates\/md5tool.tpl": "9424a838a8c58a32d3797d91d1631eab",
+        "leopard.hooks.php": "26b6a79d899058bd9e2f156e52640fc9"
+    },
+    "version": 0.1,
+    "release": 1
+}
